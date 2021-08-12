@@ -23,3 +23,5 @@ Forever trusting who we are
 And nothing else matters
 
 first feature commit
+
+second feature commit
